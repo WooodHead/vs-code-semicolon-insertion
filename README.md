@@ -6,7 +6,7 @@ Adds a shortcut to insert a semicolon at the end of the line. This plugin is bas
 
 By pressing `ctrl+shift+;` the plugin will insert a semicolon at the end of the line and add a new line just after it.
 
-![Demonstration](images/demo.gif)
+![Demonstration](https://github.com/chrisvltn/vs-code-semicolon-insertion/raw/master/images/demo.gif)
 
 > If you don't want a new line, just press `ctrl+;`.
 
@@ -17,4 +17,4 @@ Press `ctrl+shift+;` to insert the semicolon at the end of the line and create a
 If you don't like shorcuts, use the command `Insert semicolon`, by pressing `ctrl+shift+p` and typing it.
 
 ## LICENSE
-See [License](LICENSE.md) file.
+See [License](https://github.com/chrisvltn/vs-code-semicolon-insertion/blob/master/LICENSE.md) file.
